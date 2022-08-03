@@ -15,7 +15,6 @@ Emerald:
 - Old Sea Map
 - Eon Ticket
 
-Details about the Scripts and Wonder Cards:
 As we worked on this project, we carefully decided how and if we were going to release this at all. However we ultimately made the decision that if we were going to release this, we needed more than just a watermark to prove it was custom. So we made the difficult choice to rework the wonder cards (aligning the text to make them all uniform), as well as using debug scripts found within the game to achieve the same result of obtaining the event items... just without using unpreserved event rom data. Lastly about the wish eggs, unfortunately the community hasn't been able to find the distribution rom, or the scripts alongside the wonder card... so we had to use the Pokémon Egg Gift (extended) script made by Suloku! The original rom for the wish eggs had a randomization function that as of this post hasn't been recreated, so we decided to still include all 6 separately in their own roms.
 
 Equipment Required:
